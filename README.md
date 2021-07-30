@@ -28,4 +28,4 @@ There will need to be a total of 33,118 roles to be filled. The biggest holes wi
 ### Mentors
 There are not enough employees considered to be in the mentorship program. The Senior Engineer department in particular really needs more mentors. It is the depatment with the most employees and retiring employees yet it only has the 4th most employees to be in the mentorship program. This can be clearly seen in the image below when comapring to the other images in this analysis: 
 
-<img width="197" alt="Mentor_Titles" src="https://user-images.githubusercontent.com/82982180/127599066-11c24ab3-1954-4d02-990b-dd97b4ee85b4.png">
+<img width="196" alt="Mentor_Titles" src="https://user-images.githubusercontent.com/82982180/127599256-663183ec-f6cd-4a27-9683-fafb5e3a9c6d.png">
